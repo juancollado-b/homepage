@@ -13,7 +13,7 @@ const CONFIG = {
 	// General
 	name: 'Juan',
 	imageBackground: false,
-	openInNewTab: true,
+	openInNewTab: false,
 	twelveHourFormat: false,
 
 	// Greetings
@@ -165,12 +165,12 @@ const CONFIG = {
 					link: 'https://www.linkedin.com',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'Balanz',
+					link: 'https://balanz.com/',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'Mercado Libre',
+					link: 'https://mercadolibre.com.ar/',
 				},
 				{
 					name: 'Slack',
